@@ -6,6 +6,7 @@ Training Management Projesi, eğitmenlerin (instructor) çeşitli eğitim progra
 
 Bu proje **Katmanlı Mimari (Layered Architecture)** ve **Repository-Unit of Work Pattern** kullanılarak geliştirilmiştir.
 
+```bash
 Solution
 │
 ├──TrainingManagement.API       # API Katmanı (Controllers, Program.cs)
@@ -25,6 +26,7 @@ Solution
     ├── Data                   # Entity Framework Core (DbContext, Migrations)
     ├── Repositories           # Repository implementasyonları (Örn: CourseRepository, TrainingRepository)
 
+```
 
 ## **📌 Kullanılan Teknolojiler**
 - **.NET Core 9**
