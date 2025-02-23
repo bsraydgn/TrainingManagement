@@ -62,10 +62,10 @@ dotnet restore
 dotnet run --project TrainingManagement.API
 ```
 Uygulama ilk kez başlatıldığında tablolar ve aşağıdaki veriler otomatik olarak oluşacaktır:
-• 2 adet Instructor 
-• 3 adet Student
-• 1 adet Course
-• 1 adet Teacher
+- 2 adet Instructor 
+- 3 adet Student
+- 1 adet Course
+- 1 adet Teacher
 
 
 ## 📌 API Endpointleri
